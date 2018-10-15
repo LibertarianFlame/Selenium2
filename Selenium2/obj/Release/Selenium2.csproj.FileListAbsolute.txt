@@ -1,0 +1,10 @@
+D:\VS Projects\Selenium2\Selenium2\bin\Release\Selenium2.exe.config
+D:\VS Projects\Selenium2\Selenium2\bin\Release\Selenium2.exe
+D:\VS Projects\Selenium2\Selenium2\bin\Release\Selenium2.pdb
+D:\VS Projects\Selenium2\Selenium2\bin\Release\WebDriver.dll
+D:\VS Projects\Selenium2\Selenium2\bin\Release\WebDriver.Support.dll
+D:\VS Projects\Selenium2\Selenium2\bin\Release\WebDriver.xml
+D:\VS Projects\Selenium2\Selenium2\bin\Release\WebDriver.Support.xml
+D:\VS Projects\Selenium2\Selenium2\obj\Release\Selenium2.csprojResolveAssemblyReference.cache
+D:\VS Projects\Selenium2\Selenium2\obj\Release\Selenium2.exe
+D:\VS Projects\Selenium2\Selenium2\obj\Release\Selenium2.pdb
