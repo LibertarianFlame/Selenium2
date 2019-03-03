@@ -15,7 +15,8 @@ namespace Selenium2
         static IWebDriver driver;
         static void Main(string[] args)
         {
-
+            Console.WriteLine();
+            Console.WriteLine();
             /*try
             {
                 Init();
