@@ -8,3 +8,10 @@ D:\VS Projects\Selenium2\Selenium2\bin\Release\WebDriver.Support.xml
 D:\VS Projects\Selenium2\Selenium2\obj\Release\Selenium2.csprojResolveAssemblyReference.cache
 D:\VS Projects\Selenium2\Selenium2\obj\Release\Selenium2.exe
 D:\VS Projects\Selenium2\Selenium2\obj\Release\Selenium2.pdb
+D:\VS Projects\Selenium2\Selenium2\bin\Release\NUnit3.TestAdapter.dll
+D:\VS Projects\Selenium2\Selenium2\bin\Release\NUnit3.TestAdapter.pdb
+D:\VS Projects\Selenium2\Selenium2\bin\Release\nunit.engine.dll
+D:\VS Projects\Selenium2\Selenium2\bin\Release\nunit.engine.api.dll
+D:\VS Projects\Selenium2\Selenium2\bin\Release\nunit.framework.dll
+D:\VS Projects\Selenium2\Selenium2\bin\Release\nunit.framework.pdb
+D:\VS Projects\Selenium2\Selenium2\bin\Release\nunit.framework.xml
